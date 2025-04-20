@@ -1,2 +1,6 @@
 my half my wifr karishma
+<<<<<<< HEAD
 i wanna marry you
+=======
+i miss you 
+>>>>>>> f732989352852b1969e6b5ad05ca4b4ab61999b1
